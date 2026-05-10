@@ -1,4 +1,4 @@
-[![Open In Colab](https://google.com)](https://google.com)
+[Open in Google Colab](https://colab.research.google.com/github/mogesbeshah/Panthers/blob/main/Panthers_Final_Project.ipynb)
 
 #Predicting Youth Electronic Cigarette Use
 
